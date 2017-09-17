@@ -17,3 +17,7 @@ All external resources that I have used will be described and linked here.
    
    Can be found on the Google Sheets page of the survey we had to fill in.
    I have not had any disclosure so I am not going to include it.
+
+- Cryptocurrency dataset
+    
+    https://www.kaggle.com/jessevent/all-crypto-currencies

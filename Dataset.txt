@@ -1,0 +1,17 @@
+Cryptocurrency Analysis
+=======================
+
+I'm going to analyse how the cryptocurrency is evolving over time, how they
+interact with each other and maybe even how they interact with the regular
+market.
+
+Cryptocurrency is constantly evolving and the exchange is very active. Every
+day the market could completely change, which it has done in the past. That is
+why I would like to analyse these anomalies and maybe even find a correlation.
+But showing the effect of the currency and visualise the possible gains that
+could have been made with for example BitCoin is already an interesting process
+
+The dataset I plan on using can be found at:
+https://www.kaggle.com/jessevent/all-crypto-currencies
+And my portfolio at:
+https://github.com/0Rick0/DVS-Portfolio
